@@ -41,7 +41,7 @@ for line in banner:
     print(line)
     time.sleep(0.1)
 
-shodan_api_key = '9r6vVczYqYGR9F3WADASttMPt6fqK2Mm'
+shodan_api_key = 'PUT_YOU_API_KEY_HERE'
 api = shodan.Shodan(shodan_api_key)
 
 # Funcitions
