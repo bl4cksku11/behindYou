@@ -8,6 +8,12 @@ I have made this tool to do OSINT, it is very useful to do some recognition task
   <source src="example/behindYou_example.mp4" type="video/mp4">
 </video>
 
+###Important!!!!
+At line 44 you must change the API_Key
+Note: the key must be premium. You can find one doing googling or also making a brute force, it is easy.
+```bash
+shodan_api_key = 'PUT_YOUR_API_KEY_HERE'
+```
 
 ## Usage
 ```bash
